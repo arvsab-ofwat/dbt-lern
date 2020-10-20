@@ -1,1 +1,1 @@
-# dbt-lern
+# dbt-learn
